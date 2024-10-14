@@ -3,3 +3,5 @@ python dersi
 deneme yazısı
 güncelleme
 code a aktarma
+şimdi biraz ekleme yapıyorum
+code aktaralım
